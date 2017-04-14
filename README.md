@@ -1,8 +1,13 @@
 # JavaScript Racer
 Completed while in bootcamp-- forked from Dev Bootcamp.
 
-## Summary
+## Skills Utilized
+- pure javascript pure end
+- Ruby, Sinatra
+- ActiveRecord, PostgreSQL for back end
+- HTML5/CSS3
 
+## Summary
 A simple javascript application game, racing between 2 players.
 Player 1 - press Q
 Player 2 - press P
