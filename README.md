@@ -1,5 +1,6 @@
 # JavaScript Racer
-Completed while in bootcamp-- forked from Dev Bootcamp.
+Completed 4/10/2017 while in bootcamp-- forked from Dev Bootcamp.
+Single day challenge.
 
 ## Summary
 
